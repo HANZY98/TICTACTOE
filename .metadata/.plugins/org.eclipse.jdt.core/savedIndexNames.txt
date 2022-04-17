@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+C:\Users\lukeh\Desktop\CORE1 WORK\.metadata\.plugins\org.eclipse.jdt.core
-665353716.index
-651002171.index
-1865797976.index
-75931715.index
