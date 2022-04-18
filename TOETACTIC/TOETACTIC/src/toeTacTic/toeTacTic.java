@@ -14,6 +14,7 @@ public class toeTacTic implements ActionListener {
 	
 	// Creating instances of our classes from which we imported.
 	int xScore = 0;
+	int beans = 2;
 	char oScore = 0; 
 	Random randomizer = new Random();
 	JFrame gameFrame = new JFrame();
